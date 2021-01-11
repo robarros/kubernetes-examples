@@ -43,7 +43,7 @@ metadata:
     app: nginx
 spec:
   rules:
-  - host: "xxx.xxx.xxx"
+  - host: "web.virtualti.net"
     http:
       paths:
       - pathType: Prefix
