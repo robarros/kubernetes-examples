@@ -1,4 +1,4 @@
-namespace: app
+defaultNamespace: app
 targetCustomizations:
 - name: dev
   clusterSelector:
