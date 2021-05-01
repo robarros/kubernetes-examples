@@ -7,3 +7,6 @@ bases:
 replicas:
 - name: web
   count: 3
+
+resources:
+- namespace-dev.yml

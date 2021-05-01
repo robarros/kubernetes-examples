@@ -7,3 +7,6 @@ bases:
 replicas:
 - name: web
   count: 5
+
+resources:
+- namespace-prod.yml
