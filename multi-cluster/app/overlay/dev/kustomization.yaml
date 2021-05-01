@@ -10,3 +10,8 @@ replicas:
 
 resources:
 - namespace-dev.yml
+
+images:
+  - name: nginx
+    newName: httpd
+    newTag: alpine
